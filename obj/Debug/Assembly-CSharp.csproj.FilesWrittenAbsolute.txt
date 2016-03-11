@@ -1,0 +1,17 @@
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/obj/Debug/Assembly-CSharp.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/UnityEngine.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/UnityEditor.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Mono.Cecil.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Unity.DataContract.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/martinmarkenson/Desktop/Code/Mathstroid/Temp/bin/Debug/Mono.Cecil.Mdb.dll

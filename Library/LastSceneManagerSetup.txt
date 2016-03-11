@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Level 01_stroid.unity
+  isLoaded: 1
+  isActive: 1
